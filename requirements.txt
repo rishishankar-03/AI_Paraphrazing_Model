@@ -1,0 +1,6 @@
+transformers
+jupyter
+notebook
+nltk
+streamlit
+torch
