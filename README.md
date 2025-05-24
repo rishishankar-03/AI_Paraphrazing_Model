@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🤖 AI Paraphrasing Model – Humanize AI-Generated Text
 
 This project is a Streamlit-based web app that takes AI-generated or robotic-sounding text and paraphrases it to make it sound more natural and human-like using the Pegasus transformer model.
